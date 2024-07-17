@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akshiya</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akshiya-r&label=Profile%20views&color=0e75b6&style=flat" alt="akshiya-r" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshiya-r&label=Profile%20views&color=0e75b6&style=flat" alt="akshiya-r" /> </p> -->
 
 
 - 🔭 I’m currently working on **Smart monitoring platform for security cameras**
