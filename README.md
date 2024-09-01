@@ -4,9 +4,7 @@
 
 - 🔭 I’m currently working on **Smart monitoring platform for security cameras**
 
-- 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **Python, Java, React**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **akshiya.raveendiran@gmail.com**
 
