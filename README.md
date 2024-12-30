@@ -2,9 +2,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshiya-r&label=Profile%20views&color=0e75b6&style=flat" alt="akshiya-r" /> </p> -->
 
 
-- 🔭 I’m currently working on **Smart monitoring platform for security cameras**
-
-- 🌱 I’m currently learning **ExpressJs**
+- 🌱 I’m currently learning **Springboot**
 
 - 📫 How to reach me **akshiya.raveendiran@gmail.com**
 
