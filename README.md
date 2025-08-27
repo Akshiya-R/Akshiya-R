@@ -2,7 +2,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshiya-r&label=Profile%20views&color=0e75b6&style=flat" alt="akshiya-r" /> </p> -->
 
 
-- 🌱 I’m currently learning **Springboot**
+- 🌱 I’m currently focusing on **Semantic similarity and uncertainty quantification**
 
 - 📫 How to reach me **akshiya.raveendiran@gmail.com**
 
