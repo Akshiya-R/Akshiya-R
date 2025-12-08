@@ -19,7 +19,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
     </a>
     <a href="http://portfolio.akshiya" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Portfolio" width="40" height="40"/>
+        <img src="https://cdn-icons-png.flaticon.com/128/10856/10856864.png" alt="Portfolio" width="40" height="40"/>
     </a>    
     <a href="https://github.com/Akshiya-R" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
