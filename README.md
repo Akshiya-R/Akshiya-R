@@ -11,7 +11,7 @@
     <a href="https://www.linkedin.com/in/akshiya-raveendiran" target="https://www.linkedin.com/in/akshiya-raveendiran" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
     </a>
-    <a href="https://sparkling-tartufo-d6cbb6.netlify.app/" target="https://sparkling-tartufo-d6cbb6.netlify.app/" rel="noreferrer">
+    <a href="https://akshiya-portfolio.netlify.app/" target="https://akshiya-portfolio.netlify.app/" rel="noreferrer">
         <img src="https://cdn-icons-png.flaticon.com/128/10856/10856864.png" alt="Portfolio" width="40" height="40"/>
     </a>    
     <a href="https://github.com/Akshiya-R" target="_blank" rel="noreferrer">
