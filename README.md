@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **akshiya.raveendiran@gmail.com**
   
-<h3 align="left">Connect with me:</h3>
+<h3>Connect with me:</h3>
 <p style="display: flex; align-items: center; gap: 10px;">
     <a href="https://www.linkedin.com/in/akshiya-raveendiran" target="https://www.linkedin.com/in/akshiya-raveendiran" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
